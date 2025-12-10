@@ -4,7 +4,7 @@ Real-time fintech risk &amp; operations intelligence platform — Public prototy
 **Public Frontend Prototype • v1.0 • December 2025**
 
 **Live demo**: https://bleurayn.github.io/aureus-operations-platform/  
-**Permanent DOI**: [add after Zenodo]
+**Permanent DOI**:(https://doi.org/10.5281/zenodo.17884000)
 
 ### ⚠️ IMPORTANT LEGAL NOTICE
 This repository contains **only the public frontend prototype** and is released under the MIT license for demonstration, research, and collaboration purposes.
