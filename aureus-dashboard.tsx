@@ -1,7 +1,7 @@
 // ===========================================================================
 // AUREUS — RISK & OPERATIONS INTELLIGENCE PLATFORM
 // Confidential Prototype v1.0 — December 2025
-// © 2025 [Your Name / Your Company] — All Rights Reserved
+// © 2025 Cassandra Harrison / Avableu Designs LTC Liability Company — All Rights Reserved
 // This is a public demonstration only. Core backend, ML models, data pipelines,
 // compliance engine, and commercial platform are 100% closed-source and private.
 // ===========================================================================
