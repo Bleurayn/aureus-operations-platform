@@ -19,5 +19,5 @@ This repository contains **only the public frontend prototype** and is released 
 
 **is 100% proprietary, closed-source, and developed exclusively in private repositories.**
 
-© 2025 Cassandra Harrison / Avableu Design LTD Liability Company — All Rights Reserved  
+© 2025 Cassandra Harrison / Avableu Designs LTD Liability Company — All Rights Reserved  
 Unauthorized use of the AUREUS name, branding, or implication of affiliation with the commercial platform is strictly prohibited.
