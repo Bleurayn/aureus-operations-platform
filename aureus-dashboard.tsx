@@ -86,3 +86,6 @@ const AureusOperationsDashboard: React.FC = () => {
 };
 
 export default AureusOperationsDashboard;
+
+// THIS FILE IS A PUBLIC DEMONSTRATION ONLY
+// The real AUREUS platform (ML, compliance rules, integrations) is closed-source and private
